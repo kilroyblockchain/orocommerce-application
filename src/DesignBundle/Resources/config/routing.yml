@@ -1,0 +1,3 @@
+design_homepage:
+    path:     /
+    defaults: { _controller: DesignBundle:Default:index }

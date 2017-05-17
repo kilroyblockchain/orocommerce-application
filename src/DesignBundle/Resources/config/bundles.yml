@@ -1,0 +1,3 @@
+#src/DesignBundle/Resources/config/oro/bundles.yml
+bundles:
+    DesignBundle
