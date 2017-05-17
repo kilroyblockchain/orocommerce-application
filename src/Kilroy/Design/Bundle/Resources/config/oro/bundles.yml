@@ -1,3 +1,4 @@
+#src/Kilroy/Design/Bundle/Resources/config/oro/bundles.yml
 bundles:
     - Kilroy\Design\Bundle\KilroyDesignBundle
 ~                                               
