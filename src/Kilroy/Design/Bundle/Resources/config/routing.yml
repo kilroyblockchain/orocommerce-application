@@ -1,0 +1,3 @@
+kilroy_design_homepage:
+    path:     /
+    defaults: { _controller: KilroyDesignBundle:Default:index }
